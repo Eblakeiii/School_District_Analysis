@@ -1,15 +1,15 @@
-# School_District_Analysis
+# School District Analysis
 
 # Overview
-The purpose of this analysis was to analyze the adjusted district data.  The data adjustment was replacing the reading and math scores, from Thomas High School 9th graders, with  NaN (herein to be referred to as the Thomas Freshmen).  The results of this analysis was to compare the adjusted outcome to the original analysis to determine the impact, if any. 
+The purpose of this analysis was to analyze the adjusted district data.  The data adjustment was replacing the reading and math scores, from Thomas High School 9th graders, with  NaN (herein to be referred to as the Thomas Freshmen).  The results of this analysis compared the adjusted outcome to the original analysis to determine the impact, if any. 
 
 The district wide analysis encompased:
-*  15 high schools, either considered district or charter
-*  Combined total student population was 39,170
-*  Total combined annual budget of $24,649,428
-*  Student population of the Thomas High School was 1,635 
-*  Thomas Freshmen was 461, or 28.12% of the Thomas High School population, or 1.18% of the total district population
-*  Thomas High School school type is Charter
+*  15 high schools, considered either District or Charter.
+*  Combined total student population was 39,170.
+*  Total combined annual budget of $24,649,428.
+*  Student population of the Thomas High School was 1,635. 
+*  Thomas Freshmen was 461, or 28.12% of the Thomas High School population, or 1.18% of the total district population.
+*  Thomas High School school type is Charter.
 
 # Results
 ## Thomas Freshman affect on the District
@@ -58,12 +58,6 @@ There was no impact on the average math and reading scores.  However, there was 
     ------------------------------------------------------------------------------------------------------------------
     Original:   Charter	        83.5	         83.9	            94	             97	                90                            
     Adjusted:   Charter         83.5	         83.9	            90	             93	                87
-
-
-
-screen prints links?
-
-
 
 
 # Summary
