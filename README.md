@@ -42,6 +42,13 @@ The spneding per student amount does not change, nor do the average math and rea
     Adjusted:	    $630-644	    78.5	            81.6	          67	            77	                56
 
 - Scores by school size
+Thomas High School is a medium size school (Bin 1000-2000).  Again, the averages in the math and reading remain unchanged.  The percentage passing rates fell slightly.
+	
+	 	Avg Math Score	Avg Reading Score	% Passing Math	% Passing Reading	% Overall Passing
+					
+Original: 	83.4			83.9			94		97			91
+Adjusted:	83.4			83.9			88		91			85
+
 
 
 - Scores by school type
@@ -62,7 +69,17 @@ screen prints links?
 # Summary
 ## Four major changes in the updated school district analysis after reading and math scores for Thomas HS 9th graders were replaced with NaNs
 - 1  Math and reading scores in the student_data_df was changed to reflect the replacement of NaNs
-- 2  The replacement also affected the combined school dataframe
-- 3  The averages for passing were affected
+The reduction in passing rates for math, reading and overall was an expected result.  When the scores for the Thomas Freshmen were replaced with NaN, their scores were eliminated from calcuations invovling scores.  The result was an equivalent of using scores of zero (0).  Exacerbating that imprecision, the count of the students (461) was not removed from the total and individual population of students.  Reducing the numerator while holding firm on the denominator, the result will be a smaller number.
+
+- 2  The replacement also affected the combined school dataframe.
+Parallel to the comments noted above, the combined school passing results were slightly skewed lower.  The impact of the combined passing scores is not as large, as the Thomas Freshmen population was a very small percentage of the overall student body.    
+
+- 3  The analysis of bins and sizes were affected
+Using the combined school information calculated using fixed values for count and budget.  Categorizing each school into one of several spending bins, statistics were measured.  Since you're slicing and dicing the same information into different buckets, the passing rates will always come out lower.  The severity of the reduction will depend on how large a component Thomas High School was in that particular calculation.  The same logic applies to the analysis of slicing the data by the size of the school.  The changes in the medium bin was, once again, affected by the scores replaced with NaN. 
+
 - 4  The percentage calculations for school and overall performance were affected, which in turn changes the top 5 or bottom 5 rankings
+It follows the lower passing scores changed the achievement ranking for Thomas High School - falling from the #2 spot to #8.  This shift downwardis mirorred in all the other analysis invovling passing scores.  
+
+# Conclusion
+There are various approaches to perform an analysis when a portion of the dataset is potentially compromised.  Replacing the math and reading scores was a simplistic method and findings of the analysis was expected.  Only one variable changed, skewing the results in a predictable pattern.  To improve the veracity of the results, the student count for Thomas High School should have been reduced by 461 students.  Calculations invovling any scores would have been adjusted appropriately - reducing both numerator and denominator.    
 
