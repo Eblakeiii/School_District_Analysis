@@ -8,7 +8,7 @@ The district wide analysis encompased:
 *  Combined total student population was 39,170.
 *  Total combined annual budget of $24,649,428.
 *  Student population of the Thomas High School was 1,635. 
-*  Thomas Freshmen was 460, or 28.13% of the Thomas High School population, or 1.17% of the total district population.
+*  Thomas Freshmen was 461, or 28.20% of the Thomas High School population, or 1.18% of the total district population.
 *  Thomas High School school type is Charter.
 
 # Results
@@ -52,16 +52,16 @@ The reduction of the passing rates for math, reading and overall was an expected
 
 ### 2. The replacement also affected the combined school results
 
-Parallel to the comments noted above, the combined school passing results were slightly skewed lower.  The impact of the combined passing scores is not as large, as the 	Thomas Freshmen population was a very small percentage of the overall student body.    
+Parallel to the comments above, the combined school passing results were slightly skewed lower.  The impact of the combined passing scores is not as large, as the 	Thomas Freshmen population was a very small percentage of the overall student body.    
 
 ### 3. The analysis of speding bins and school sizes were affected
 
-As mentioned above, schools were grouped into categories by school size (small, medium, large) and by spending per student amounts (4 spending bins).  Classifying each 	school into one of several spending bins and size category, achievement markers were compared.  Because the rates themselves are lower, the apportioned values were also 	lower.  The severity of the reduction depended on how large a component Thomas High School was in that particular calculation.     
+As noted previously, schools were grouped into categories by school size (small, medium, large) and by spending per student amounts (4 spending bins).  Classifying each 	school into one of several spending bins and size category, achievement markers were compared.  Because the rates themselves are lower, the apportioned values were also 	lower.  The severity of the reduction depended on how large a component Thomas High School was in that particular calculation.     
 
 ### 4. The top 5 rankings reordered
 
-In the original analysis, Thomas High School was consiered a top ranked school based on passing rates.  With the adjustment of the Thomas Freshmen, their passing rates 	plunged, causing their ranking to fall to #8.  This shift downward was mirorred in all the analysis involving passing scores.  
+In the original analysis, Thomas High School was consiered a top ranked school based on the overall passing rates.  With the adjustment of the Thomas Freshmen, their passing rates plunged, causing their ranking to fall to #8.  This shift downward was mirorred in all the analysis involving passing scores.  
 
 # Conclusion
-There are various approaches to perform an analysis when a portion of the dataset is potentially compromised.  Replacing the math and reading scores with NaN was a simplistic method and the findings were predictable.  Only one variable changed, skewing the results in a anticpated pattern.  To improve the veracity of the results, the student count for Thomas High School should have been reduced by 460 students.  Then the calculations involving scores would have been adjusted appropriately - reducing both numerator and denominator.    
+There are various approaches to perform an analysis when a portion of the dataset is potentially compromised.  Replacing the math and reading scores with NaN was a simplistic method and the findings were predictable.  Only one variable changed, biasing the results in a anticpated pattern.  To improve the veracity of the results, the student count for Thomas High School should have been reduced by 461 students.  Then the calculations involving scores would have been adjusted appropriately - reducing both numerator and denominator.    
 
