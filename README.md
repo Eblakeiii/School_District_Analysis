@@ -29,7 +29,8 @@ Prior to any replacement of the Thomas Freshmen, Thomas High School was ranked #
 
 ## Thomas Freshmen affect on:
 - Math and reading passing scores by grade
-Making any comparisons on a school grade level is not possible as the Thomas Freshmen math and reading scores were replaced with NaN.   
+
+  Making any comparisons on a school grade level is not possible as the Thomas Freshmen math and reading scores were replaced with NaN.   
 
 - Passing scores by school spending
 Spending per student was calculated by dividing the budget amount by the number of students for a particular school.  The schools were then classified into spending bins based on the amount.  The spending per student amount does not change, nor does the average math and reading scores.  The lack of impact is anticpated as calculations are based on fixed values.  Percentage passing scores, however, saw a decline in rates when they were compared in their spending bin.  Click to see the [table](https://github.com/Eblakeiii/School_District_Analysis/blob/master/Resources/bySpend.png) for details.
