@@ -8,7 +8,7 @@ The district wide analysis encompased:
 *  Combined total student population was 39,170.
 *  Total combined annual budget of $24,649,428.
 *  Student population of the Thomas High School was 1,635. 
-*  Thomas Freshmen was 461, or 28.12% of the Thomas High School population, or 1.18% of the total district population.
+*  Thomas Freshmen was 460, or 28.13% of the Thomas High School population, or 1.17% of the total district population.
 *  Thomas High School school type is Charter.
 
 # Results
@@ -63,5 +63,5 @@ As mentioned above, schools were grouped into categories by school size (small, 
 In the original analysis, Thomas High School was consiered a top ranked school based on passing rates.  With the adjustment of the Thomas Freshmen, their passing rates 	plunged, causing their ranking to fall to #8.  This shift downward was mirorred in all the analysis involving passing scores.  
 
 # Conclusion
-There are various approaches to perform an analysis when a portion of the dataset is potentially compromised.  Replacing the math and reading scores with NaN was a simplistic method and the findings were predictable.  Only one variable changed, skewing the results in a anticpated pattern.  To improve the veracity of the results, the student count for Thomas High School should have been reduced by 461 students.  Then the calculations involving scores would have been adjusted appropriately - reducing both numerator and denominator.    
+There are various approaches to perform an analysis when a portion of the dataset is potentially compromised.  Replacing the math and reading scores with NaN was a simplistic method and the findings were predictable.  Only one variable changed, skewing the results in a anticpated pattern.  To improve the veracity of the results, the student count for Thomas High School should have been reduced by 460 students.  Then the calculations involving scores would have been adjusted appropriately - reducing both numerator and denominator.    
 
