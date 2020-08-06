@@ -38,11 +38,11 @@ Prior to any replacement of the Thomas Freshmen, Thomas High School was ranked #
 		        
 - Scores by school size
 
-	Each high school was classified by as size as small, medium or large based on the student population.  Thomas High School is a medium size school was was placed in Bin 	1000-2000.  Again, the averages in the math and reading remain unchanged.  The percentage passing rates fell slightly.  Click to see the [table]			(https://github.com/Eblakeiii/School_District_Analysis/blob/master/Resources/bySize.png) for details.
+	Each high school was classified by as size as small, medium or large based on the student population.  Thomas High School is a medium size school was was placed in Bin 	1000-2000.  Again, the averages in the math and reading remain unchanged.  The percentage passing rates fell slightly.  Click to see the [table](https://github.com/Eblakeiii/School_District_Analysis/blob/master/Resources/bySize.png) for details.
 
 - Scores by school type
 
-	There are two different types of school, District or Charter.  Thomas High School is a Charter school.  There was no impact on the average math and reading scores.  		However, there was a slight decline in the percentage passing rates.  Click to see [table.]	(https://github.com/Eblakeiii/School_District_Analysis/blob/master/Resources/byType.png) for details.
+	There are two different types of school, District or Charter.  Thomas High School is a Charter school.  There was no impact on the average math and reading scores.  		However, there was a slight decline in the percentage passing rates.  Click to see [table.](https://github.com/Eblakeiii/School_District_Analysis/blob/master/Resources/byType.png) for details.
 
 # Summary
 ## Four major changes  due too the Thomas Freshmen 
