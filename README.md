@@ -48,7 +48,7 @@ Spending per student was calculated by dividing the budget amount by the number 
 
 		        
 - Scores by school size
-Each high school was classified by as size as small, medium or large based on the student population.  Thomas High School is a medium size school was was placed in Bin 1000-2000.  Again, the averages in the math and reading remain unchanged.  The percentage passing rates fell slightly.
+Each high school was classified by as size as small, medium or large based on the student population.  Thomas High School is a medium size school was was placed in Bin 1000-2000.  Again, the averages in the math and reading remain unchanged.  The percentage passing rates fell slightly.  Take a look at the [table.](https://github.com/Eblakeiii/School_District_Analysis/blob/master/Resources/bySize.png)
 	
 	  	Avg Math Score	Avg Reading Score      % Passing Math  	% Passing Reading      % Overall Passing
 		-----------------------------------------------------------------------------------------------------			
