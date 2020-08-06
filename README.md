@@ -21,7 +21,7 @@ As in the district wide study, the calculations using fixed variables remain unc
     ORIGINAL passing rates for:            ADJUSTED passing rates for:
     math    reading   overall              math    reading   overall  
     -----   -----     --------             -----   -----     --------
-    93.3%,	97.3%     90.9%,               66.9%	  69.7%	    65.1%
+    93.3%,   97.3%     90.9%,              66.9%    69.7%     65.1%
 
 ## Thomas Freshmen affect on School Ranking
 Prior to any replacement of the Thomas Freshmen, Thomas High School was ranked #2 at 90.9% in terms of overall achievement performance.  With the Thomas Freshmen adjustment, their ranking fell to to ranking #8 at 65.1%.  This aligns with the 28% fall in passing scores shown above.
@@ -32,13 +32,21 @@ Prior to any replacement of the Thomas Freshmen, Thomas High School was ranked #
 Making any comparisons on a school grade level is not possible as the Thomas Freshmen math and reading scores were replaced with NaN.   
 
 - Passing scores by school spending
-Spending per student was calculated by dividing the budget amount by the number of students for a particular school.  The schools were then classified into spending bins based on the amount.  The spending per student amount does not change, nor does the average math and reading scores.  The lack of impact is anticpated as calculations are based on fixed values.  Percentage passing scores, however, saw a decline in rates when they were compared in their spending bin.
+Spending per student was calculated by dividing the budget amount by the number of students for a particular school.  The schools were then classified into spending bins based on the amount.  The spending per student amount does not change, nor does the average math and reading scores.  The lack of impact is anticpated as calculations are based on fixed values.  Percentage passing scores, however, saw a decline in rates when they were compared in their spending bin.  Take a look look at the [table](insert url)
 
-	         Spending Bin    Avg Math Score    Avg Reading Score	% Passing Math	% Passing Reading   % Overall Passing
-                -------------------------------------------------------------------------------------------------------------
-    Original:	    $630-644	    78.5	           81.6	          73	            84	                63
-    Adjusted:	    $630-644	    78.5	           81.6	          67	            77	                56
 
+
+
+
+
+		Spending Bin | Avg Math Score | Avg Reading Score | %Passing Math | %Passing Reading | %Overall Passing
+		-------------|----------------|-------------------|---------------|------------------|------------------------------	
+     |Original:|	 $630-644 | 78.5 | 81.6 | 73 | 84 | 63
+			
+     |Adjusted:|	 $630-644 | 78.5 | 81.6	| 67 | 77 | 56
+
+
+		        
 - Scores by school size
 Each high school was classified by as size as small, medium or large based on the student population.  Thomas High School is a medium size school was was placed in Bin 1000-2000.  Again, the averages in the math and reading remain unchanged.  The percentage passing rates fell slightly.
 	
